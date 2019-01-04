@@ -2,7 +2,7 @@
   "name": "jsdoc-test",
   "version": "1.0.0",
   "description": "",
-  "main": "defs.js",
+  "main": "usage.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
